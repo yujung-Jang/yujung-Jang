@@ -14,7 +14,7 @@
   <br>
 
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/yujung-Jang"/>
+    <img src="https://render.gitanimals.org/farms/yujung-Jang"/>
   </a>
   
 </div>
